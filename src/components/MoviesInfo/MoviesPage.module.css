@@ -1,0 +1,7 @@
+.cart img {
+  height: 350px;
+}
+.cart {
+  height: 350px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
